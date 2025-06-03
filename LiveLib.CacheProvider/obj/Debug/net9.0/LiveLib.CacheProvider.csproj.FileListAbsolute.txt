@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.CacheProvider\obj\Debug\net9.0\LiveLib.CacheProvider.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.CacheProvider\obj\Debug\net9.0\LiveLib.CacheProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.CacheProvider\obj\Debug\net9.0\LiveLib.CacheProvider.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.CacheProvider\obj\Debug\net9.0\LiveLib.CacheProvider.AssemblyInfo.cs
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.CacheProvider\obj\Debug\net9.0\LiveLib.CacheProvider.csproj.CoreCompileInputs.cache
