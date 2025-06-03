@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LiveLib.Domain/1.0.0": {
+        "runtime": {
+          "LiveLib.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiveLib.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

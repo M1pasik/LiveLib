@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.JwtProvider\obj\Debug\net9.0\LiveLib.JwtProvider.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.JwtProvider\obj\Debug\net9.0\LiveLib.JwtProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.JwtProvider\obj\Debug\net9.0\LiveLib.JwtProvider.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.JwtProvider\obj\Debug\net9.0\LiveLib.JwtProvider.AssemblyInfo.cs
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.JwtProvider\obj\Debug\net9.0\LiveLib.JwtProvider.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\bin\Debug\net9.0\LiveLib.Domain.deps.json
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\bin\Debug\net9.0\LiveLib.Domain.dll
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\bin\Debug\net9.0\LiveLib.Domain.pdb
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\LiveLib.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\LiveLib.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\LiveLib.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\LiveLib.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\LiveLib.Domain.dll
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\refint\LiveLib.Domain.dll
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\LiveLib.Domain.pdb
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Domain\obj\Debug\net9.0\ref\LiveLib.Domain.dll
