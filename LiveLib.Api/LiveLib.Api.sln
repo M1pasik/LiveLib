@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.Api", "LiveLib.Api.csproj", "{E237205A-F68D-4AD9-AE43-FBE7A12D6EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.Application", "..\LiveLib.Application\LiveLib.Application.csproj", "{9365A990-1764-45DE-B20B-F1027043968E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.Domain", "..\LiveLib.Domain\LiveLib.Domain.csproj", "{CC8380C2-DC27-445E-9A52-721E272CEA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.Database", "..\LiveLib.Database\LiveLib.Database.csproj", "{5C068226-365C-4393-BC97-A868865ABA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.PasswordHasher", "..\LiveLib.PasswordHasher\LiveLib.PasswordHasher.csproj", "{53683A23-1955-4D8E-9FAA-BF983BA30524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.JwtProvider", "..\LiveLib.JwtProvider\LiveLib.JwtProvider.csproj", "{F4DE311F-9E9A-4296-8013-8D6D7AC7F55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLib.CacheProvider", "..\LiveLib.CacheProvider\LiveLib.CacheProvider.csproj", "{C30DE7CF-286B-4785-8125-1F188E3545D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E237205A-F68D-4AD9-AE43-FBE7A12D6EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E237205A-F68D-4AD9-AE43-FBE7A12D6EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E237205A-F68D-4AD9-AE43-FBE7A12D6EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E237205A-F68D-4AD9-AE43-FBE7A12D6EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9365A990-1764-45DE-B20B-F1027043968E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9365A990-1764-45DE-B20B-F1027043968E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9365A990-1764-45DE-B20B-F1027043968E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9365A990-1764-45DE-B20B-F1027043968E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8380C2-DC27-445E-9A52-721E272CEA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8380C2-DC27-445E-9A52-721E272CEA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8380C2-DC27-445E-9A52-721E272CEA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8380C2-DC27-445E-9A52-721E272CEA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C068226-365C-4393-BC97-A868865ABA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C068226-365C-4393-BC97-A868865ABA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C068226-365C-4393-BC97-A868865ABA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C068226-365C-4393-BC97-A868865ABA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53683A23-1955-4D8E-9FAA-BF983BA30524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53683A23-1955-4D8E-9FAA-BF983BA30524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53683A23-1955-4D8E-9FAA-BF983BA30524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53683A23-1955-4D8E-9FAA-BF983BA30524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DE311F-9E9A-4296-8013-8D6D7AC7F55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DE311F-9E9A-4296-8013-8D6D7AC7F55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DE311F-9E9A-4296-8013-8D6D7AC7F55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DE311F-9E9A-4296-8013-8D6D7AC7F55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30DE7CF-286B-4785-8125-1F188E3545D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30DE7CF-286B-4785-8125-1F188E3545D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30DE7CF-286B-4785-8125-1F188E3545D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30DE7CF-286B-4785-8125-1F188E3545D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76072F2-8E82-4531-AD4F-660AB95BEF47}
+	EndGlobalSection
+EndGlobal

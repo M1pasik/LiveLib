@@ -1,0 +1,6 @@
+@LiveLib.Api_HostAddress = http://localhost:5001
+
+GET {{LiveLib.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

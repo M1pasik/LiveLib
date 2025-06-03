@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Api\obj\Debug\net9.0\LiveLib.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Api\obj\Debug\net9.0\LiveLib.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Api\obj\Debug\net9.0\LiveLib.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Api\obj\Debug\net9.0\LiveLib.Api.AssemblyInfo.cs
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Api\obj\Debug\net9.0\LiveLib.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Prodject\LiveLib-analog-main\LiveLib.Api\obj\Debug\net9.0\LiveLib.Api.MvcApplicationPartsAssemblyInfo.cache
